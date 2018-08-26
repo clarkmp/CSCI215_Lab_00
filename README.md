@@ -4,3 +4,5 @@ Github practice
 * Clone your repo to your local machine
 * Create and edit one file
 * Commit and push your changes to Git and Github
+
+*Edited by Michael Clark
